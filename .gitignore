@@ -1,0 +1,6 @@
+.bsp/**
+.idea/**
+.scannerwork/**
+target/**
+project/project/**
+project/target/**
